@@ -1,4 +1,16 @@
-def print_num(num):
-    print(num)
-for i in range(11):
-    print_num(88005553535)
+def print_num():
+    print(88005553535)
+
+
+
+print_num()
+print_num()
+print_num()
+print_num()
+print_num()
+print_num()
+print_num()
+print_num()
+print_num()
+print_num()
+print_num()
