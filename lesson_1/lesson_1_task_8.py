@@ -1,16 +1,15 @@
-def print_num():
-    print(88005553535)
+def new_function(num):
+    print(num, end = '')
 
 
-
-print_num()
-print_num()
-print_num()
-print_num()
-print_num()
-print_num()
-print_num()
-print_num()
-print_num()
-print_num()
-print_num()
+new_function(8)
+new_function(8)
+new_function(0)
+new_function(0)
+new_function(5)
+new_function(5)
+new_function(5)
+new_function(3)
+new_function(5)
+new_function(3)
+new_function(5)
